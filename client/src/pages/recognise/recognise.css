@@ -1,0 +1,45 @@
+.recognise{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    flex-direction: column;
+    gap: 20px;
+}
+.recognise form{
+    display: flex;
+    flex-direction: column;
+    background-color: #E1EEDD;
+    height: 60%;
+    width: 50%;
+    justify-content: center;
+    align-items: center;
+    border-radius: 9px;
+    gap:20px;
+}
+
+
+
+
+
+.file-container{
+    /* background-color: hsl(106, 35%, 80%); */
+    height: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 7px;
+}
+
+.recognise .message{
+    background-color: #E1EEDD;
+    width: 50%;
+    text-align: center;
+    border-radius: 5px;
+    padding: 20px 0px;
+}
+
+.recognise .message h2{
+    font-size: 20px;
+    margin-bottom: 5px;
+}
